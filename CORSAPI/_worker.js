@@ -1217,7 +1217,7 @@ async function handleHomePage(currentOrigin, defaultPrefix) {
   
   <script>
     // 密码配置 - 请自行修改此密码
-    const CORRECT_PASSWORD = '121314';
+    const CORRECT_PASSWORD = 'admin123';
     
     // 登录功能
     document.getElementById('login-btn').addEventListener('click', () => {
